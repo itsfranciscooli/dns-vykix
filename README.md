@@ -1,4 +1,6 @@
-# For Linux
+# FRANKFURT ONLY
+
+## For Linux
 
 Copy file ending in .sh
 
@@ -6,7 +8,7 @@ And run the following commands in the directory of the script
 `chmod +x dns-vykix.sh`
 `./dns-vykix.sh`
 
-# For Windows
+## For Windows
 
 Copy file ending in .bat
 
